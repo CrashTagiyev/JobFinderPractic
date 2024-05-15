@@ -1,0 +1,17 @@
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.DataAccess.deps.json
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.DataAccess.runtimeconfig.json
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.DataAccess.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.DataAccess.pdb
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.Domain.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\bin\Debug\net8.0\JobFinderPractic.Domain.pdb
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.AssemblyInfo.cs
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.csproj.CopyComplete
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\refint\JobFinderPractic.DataAccess.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.pdb
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\JobFinderPractic.DataAccess.genruntimeconfig.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.DataAccess\obj\Debug\net8.0\ref\JobFinderPractic.DataAccess.dll

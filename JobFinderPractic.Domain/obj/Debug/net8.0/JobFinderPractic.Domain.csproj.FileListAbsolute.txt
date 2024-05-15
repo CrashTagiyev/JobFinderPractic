@@ -1,0 +1,12 @@
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\bin\Debug\net8.0\JobFinderPractic.Domain.deps.json
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\bin\Debug\net8.0\JobFinderPractic.Domain.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\bin\Debug\net8.0\JobFinderPractic.Domain.pdb
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.csproj.AssemblyReference.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.AssemblyInfoInputs.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.AssemblyInfo.cs
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\refint\JobFinderPractic.Domain.dll
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\JobFinderPractic.Domain.pdb
+C:\Users\Crash\source\repos\JobFinderPractic\JobFinderPractic.Domain\obj\Debug\net8.0\ref\JobFinderPractic.Domain.dll
